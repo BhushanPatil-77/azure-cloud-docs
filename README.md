@@ -1,5 +1,6 @@
 # azure-cloud-docs
-Repository containing all work focused on Azure cloud.
+Repository containing all work focused on Azure cloud.  
+👉 **Note:** All practice is done in the resource group **basic-rg-1**. Some resources may have been deleted right after practicing to save cost, but screenshots have been attached for most items.
 
 ---
 
@@ -48,4 +49,3 @@ To get the most out of each document:
 ## Summary
 This repository is designed to keep all Azure cloud documentation organized, accessible, and easy to navigate.  
 By using categories, week numbers, and multiple views, you can quickly find the right guide, lab, research, or dictionary entry for your work.
-
